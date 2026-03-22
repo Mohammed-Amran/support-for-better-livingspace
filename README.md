@@ -1,16 +1,22 @@
-# support_for_better_livingspace
+# Support For Better Living Space
+A Flutter mobile app for home service technician built using Flutter and Firebase (Firestore database).
 
-A new Flutter project.
+## Features
+- Request a technician (as a user).
+- View Request Status (as a user).
+- Mark any technician as favourite (as a user).
+- View all favourite technicians (as a user).
+- Receive requests from users (as a technician).
+- Accept/Reject received request (as a technician).
+- Update accepted request status (as a technician).
 
-## Getting Started
+## Technologies
+- Flutter
+- Firebase (Firestore database).
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## How to run the app
+1. Clone the project.
+2. Run 'Flutter pub get'.
+3. Run the project as any other flutter project on a Emulator, Physical device, or on a browser.
