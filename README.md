@@ -17,5 +17,6 @@ A Flutter mobile app for home service technician built using Flutter and Firebas
 
 ## How to run the app
 1. Clone the project.
-2. Run 'Flutter pub get'.
-3. Run the project as any other flutter project on a Emulator, Physical device, or on a browser.
+2. Open the project in any IDE or Code Editor (VS Code preferred).
+3. Run 'Flutter pub get' in the command line.
+4. Run the project as any other flutter project on a Emulator, Physical device, or on a browser.
