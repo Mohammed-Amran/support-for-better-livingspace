@@ -1,4 +1,4 @@
-# Support For Better Living Space
+# Support For Better Living Space 🛠️🪴
 A Flutter mobile app for home service technician built using Flutter and Firebase (Firestore database).
 
 ## Features
