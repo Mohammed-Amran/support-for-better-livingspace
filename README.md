@@ -14,6 +14,24 @@ A Flutter mobile app for home service technician built using Flutter and Firebas
 - Flutter
 - Firebase (Firestore database).
 
+## Screenshots
+![Login Page](screenshots/login.png)
+
+![Signup Page](screenshots/signup.png)
+
+![User Home Page](screenshots/user-home.png)
+
+![User Home Page](screenshots/user-home-2.png)
+
+![User Carpenter Page](screenshots/user-carpenter-screen.png)
+
+![Labour Home Page](screenshots/admin-home.png)
+
+![Labour Home Page 2](screenshots/admin-home-2.png)
+
+![Labour Home Page 3](screenshots/admin-home-3.png)
+
+![Request Status Page 4](screenshots/admin-home-4.png)
 
 ## How to run the app
 1. Clone the project.
